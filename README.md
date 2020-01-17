@@ -1,2 +1,2 @@
-# Modeling_necroptosis
+# Modeling necroptosis
 Matlab code for mathematical modeling on signaling regulations for necroptosis.
