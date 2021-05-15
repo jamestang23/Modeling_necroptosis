@@ -7,4 +7,4 @@ To run the conceptual model, go to the folder ConceptualModel and run DeathConce
 
 To run the full model, go to the folder FullModel and run NecroptosisMain1.m.
 
-The details of the model can be found in the manuscript [].
+The details of the model can be found in the manuscript [https://www.embopress.org/doi/full/10.15252/msb.20209677].
